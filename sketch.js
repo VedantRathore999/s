@@ -44,7 +44,7 @@ function draw() {
   snow.scale=0.08
   snow.velocityY=2
   }
-if(ch1.x===775){
+if(ch1.x===835){
   ch1.x=-25
 }
 
